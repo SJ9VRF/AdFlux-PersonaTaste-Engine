@@ -1,1 +1,36 @@
+# Python-related files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files
+data/raw/
+data/processed/
+
+# Model directories
+models/foundation_models/
+models/custom_models/
+
+# Logs and experiment outputs
+logs/
+training_output/
+*.log
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Configuration files
+*.env
+*.json
 
