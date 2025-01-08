@@ -4,9 +4,9 @@
 
 ---
 
-# Models Overview
+## Models Overview
 
-## Foundation Models
+### Foundation Models
 - **BERT**:  
   Used for classification tasks (e.g., predicting user actions).  
 
@@ -31,9 +31,9 @@
 
 ---
 
-## Synthetic Data Details
+### Synthetic Data Details
 
-### The synthetic data includes:
+The synthetic data includes:
 - **User Attributes**:  
   - Age  
   - Gender  
