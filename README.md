@@ -72,7 +72,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-###Usage
+### Usage
 1. Download Foundation Models
 
 Run the script to download BERT, GPT, and T5 models:
