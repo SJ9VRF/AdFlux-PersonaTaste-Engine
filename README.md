@@ -31,9 +31,9 @@
 
 ---
 
-# Synthetic Data Details
+## Synthetic Data Details
 
-## The synthetic data includes:
+### The synthetic data includes:
 - **User Attributes**:  
   - Age  
   - Gender  
@@ -56,7 +56,7 @@
   - Purchases
  
 ---
-### Getting Started
+## Getting Started
 
 Prerequisites
 Python 3.8+
