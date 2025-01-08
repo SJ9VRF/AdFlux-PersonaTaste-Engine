@@ -2,6 +2,10 @@
 
 ![Screenshot_2025-01-06_at_10 52 12_AM_1-removebg-preview](https://github.com/user-attachments/assets/c0a7bde4-9ade-4689-993e-596212a1c083)
 
+The AdFlux PersonaTaste Engine is an advertising ecosystem for improving ad click-through rates (CTR) through the incorporation of persona-based tastes derived from user behavior history, such as shopping data and web clicks. By leveraging SOTA foundation models like BERT, GPT, and T5, this project builds custom models for tasks including next-click prediction, CTR estimation, and purchase likelihood modeling.
+
+The engine simulates and predicts user behavior to deliver highly personalized ad experiences, significantly increasing the likelihood of user engagement. It includes synthetic data generation for training purposes and robust support for both training and inference pipelines. Moreover, it is designed to be easily adaptable by allowing the seamless replacement of SOTA models with other foundation models, enabling it to capitalize on the performance of the latest advancements in the field. This flexibility ensures the engine remains at the forefront of advertising analytics and optimization.
+
 ---
 
 ## Models Overview
